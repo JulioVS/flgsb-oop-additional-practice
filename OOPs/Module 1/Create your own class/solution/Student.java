@@ -46,7 +46,7 @@ public class Student {
     }
     
     // Step 4: Method to stringify student details
-    public String displayStudentDetails() {
+    public String displayDetails() {
         return "ID: " + this.studentId +
                 "\nName: " + this.name + 
                 " Grade: " + this.grade +
