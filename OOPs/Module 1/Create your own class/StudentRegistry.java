@@ -8,7 +8,6 @@ public class StudentRegistry {
         Student s1 = new Student();
         Student s2 = new Student();
         
-        
         // Step 2: Use setter methods to set values for all attributes of first student
         // Example values: ID "S001", name "John Doe", grade 85.5, active true
         System.out.println("\nStep 2:\n");

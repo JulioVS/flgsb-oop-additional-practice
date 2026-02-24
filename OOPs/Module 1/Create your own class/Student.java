@@ -3,8 +3,7 @@ public class Student {
 
     // Step 1: Declare private variables for studentId, name, grade, and isActive
     // Hint: Use appropriate data types (String, String, double, boolean)
-    private String studentId;
-    private String name;
+    private String studentId, name;
     private double grade;
     private boolean isActive;
     
